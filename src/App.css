@@ -1,0 +1,11 @@
+body {
+  background-image: linear-gradient(to right, #CE1126, #FCD116, #006B3F);
+  font-family: sans-serif;
+}
+
+.App-h1 {
+  font-size: 5em;
+  text-align: center;
+  margin-bottom: 0.5vw;
+  font-family: 'Luckiest Guy', sans-serif;
+}

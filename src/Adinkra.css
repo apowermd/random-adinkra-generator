@@ -1,0 +1,67 @@
+.Adinkra {
+    display: flex;
+    flex-direction: column;
+    /* align-items: center;
+    justify-content: center; */
+}
+
+.Adinkra-img {
+    width: 25%;
+    height: 25%;
+    border: solid black 4px;
+    border-radius: 20px;
+    background-color: rgb(243, 234, 139);
+    align-items: stretch;
+    justify-content: flex-start;
+    /* box-shadow: 10px 10px fuchsia; */
+    /* padding: 5px; */
+}
+
+.grow { 
+    transition: all .5s ease-in-out; 
+}
+.grow:hover { 
+    transform: scale(1.1); 
+}
+
+.Adinkra-h1 {
+    font-size: 3em;
+    font-family: 'Cabin Condensed', sans-serif;
+    text-align: center;
+}
+
+.Adinkra-p {
+    font-size: 2em;
+    font-family: 'Cabin Condensed', sans-serif;
+    margin-top: 0px;
+}
+
+.Adinkra-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1vw;
+}
+
+.Adinkra-col {
+    display: flex;
+    flex-direction: column;
+    margin-left: 2vw;
+}
+
+.Adinkra-btn {
+    font-size: 1.25em;
+    font-family: 'Cabin Condensed', sans-serif;
+    margin-top: 2vw;;
+    width: 8vw;
+    background-color: palegoldenrod;
+}
+
+.center {
+    text-align: center;
+}
+
+.Adinkra-btn:hover {
+    background-color: plum;
+}
