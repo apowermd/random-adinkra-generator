@@ -6,6 +6,6 @@ body {
 .App-h1 {
   font-size: 5em;
   text-align: center;
-  margin-bottom: 0.5vw;
+  margin: 1vw 0vw 0vw 0vw;
   font-family: 'Luckiest Guy', sans-serif;
 }
