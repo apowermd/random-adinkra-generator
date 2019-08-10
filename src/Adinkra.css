@@ -66,4 +66,5 @@
 
 .Adinkra-btn:hover {
     background-color: plum;
+    cursor: pointer;
 }
